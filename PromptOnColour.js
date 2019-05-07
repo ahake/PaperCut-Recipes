@@ -19,7 +19,7 @@ function printJobHook(inputs, actions) {
       " background: url(http://%PC_SERVER%/scripting/print/recipes/images/treebg.png) no-repeat;'>" +
       " <div style='padding: 10px; font-weight: bold; font-size: 20px; text-align: center;'>" +
       " Print Policy Alert<br>" +
-      " <img src='http://%PC_SERVER%/images/icons/24x24/PersonnelGroup.png'>" +
+      " <img src='http://%PC_SERVER%/images/icons/24x24/Logo.png'>" +
       " </div>" +
       " <div style='font-size: 14px; font-weight: bold; text-align: center;'>" +
       " Please help us save the environment and some money." +
